@@ -59,3 +59,4 @@ To add support for a programming language, you must do the following:
     
 3. Update `tests/test_code_echo.sh` to include a simple **echo** test for that
    language (ie. the program reads in the input and echos it back).
+Updated README
